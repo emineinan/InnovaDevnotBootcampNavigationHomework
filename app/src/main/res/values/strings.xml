@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NavigationComponentHomework</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="homepage">HOMEPAGE</string>
+    <string name="go_a_b_y">GO A-B-Y</string>
+    <string name="go_x_y">GO X-Y</string>
+    <string name="page_a">PAGE A</string>
+    <string name="go_y">GO Y</string>
+    <string name="page_b">PAGE B</string>
+    <string name="page_y">PAGE Y</string>
+    <string name="page_x">PAGE X</string>
+    <string name="info">Please press the back button to return to the homepage.</string>
+</resources>
